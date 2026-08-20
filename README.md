@@ -1,2 +1,5 @@
-# rgb-workshop-media
-RGB Workshop public media files — direct jpg/mp4/mp3 links
+# RGB Workshop media
+
+Public files for RGB Workshop. Direct links:
+
+`https://cdn.jsdelivr.net/gh/hkrgb/rgb-workshop-media@main/xxxxx.jpg`
